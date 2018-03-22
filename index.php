@@ -9,5 +9,6 @@
 <body>
     <p>Vue js</p>
     <h1>coba bos</h1>
+    <h2>oke bos</h2>
 </body>
 </html>
